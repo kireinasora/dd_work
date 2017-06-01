@@ -1,0 +1,7 @@
+﻿  work.cpp
+c:\users\kin\desktop\c\work_project\work_project\work.cpp(103): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\kin\desktop\c\work_project\work_project\work.cpp(103): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\kin\desktop\c\work_project\work_project\work.cpp(103): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\kin\desktop\c\work_project\work_project\work.cpp(103): note: this argument is used as a buffer size
+  work_project.vcxproj -> C:\Users\Kin\Desktop\C\work_project\Debug\work_project.exe
+  work_project.vcxproj -> C:\Users\Kin\Desktop\C\work_project\Debug\work_project.pdb (Partial PDB)
